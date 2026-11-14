@@ -152,5 +152,15 @@ AI Generated</description>
     <pubDate>Fri, 13 Nov 2026 23:09:56 +0000</pubDate>
     <itunes:duration>1199</itunes:duration>
   </item>
+  <item>
+    <title>Tech Pulse — November 15, 2026</title>
+    <description>Alex and Jordan explain the day's gadget and AI news in simple, easy English for English learning. Today: SpaceX catches a Starship returning from orbit, Anthropic's Claude Fable 5.2 tops the AI rankings, OpenAI's ChatGPT Wallet lets AI agents pay, a hands-on review of Claude Duet, United Airlines pushes back on AI flight booking, early Black Friday gadget deals, and Apple Intelligence cleared for iPad and Mac in China.
+
+AI Generated</description>
+    <enclosure url="https://shojinohimi2.github.io/tech-pulse/episodes/ep-de05eb92-42db-4e79-bbf3-962feb9df1a9.mp3" length="8387173" type="audio/mpeg" />
+    <guid isPermaLink="false">ep-de05eb92-42db-4e79-bbf3-962feb9df1a9</guid>
+    <pubDate>Sat, 14 Nov 2026 23:09:11 +0000</pubDate>
+    <itunes:duration>1048</itunes:duration>
+  </item>
 </channel>
 </rss>
